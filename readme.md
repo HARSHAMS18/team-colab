@@ -1,1 +1,1 @@
-This is a colab repo
+This is a colab repository
